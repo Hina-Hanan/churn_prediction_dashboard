@@ -1,6 +1,6 @@
 # Customer Churn Prediction Dashboard 
 
-**Live Demo:** https://yourname-churn-dashboard.streamlit.app
+**Live Demo:** [Churn_dashboard](https://churnpredictiondashboardxyz.streamlit.app/)
 
 ## What it does
 - Predicts churn probability using XGBoost (ROC-AUC 0.84)
